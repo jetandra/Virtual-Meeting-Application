@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287477963626",
+    "project_id": "virtualmeet-a25ae",
+    "storage_bucket": "virtualmeet-a25ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287477963626:android:fc7529246d001603b4e313",
+        "android_client_info": {
+          "package_name": "com.example.virtualmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287477963626-6sq5f88u6loti4094hgi3gc4cbsc2tnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualmeet",
+            "certificate_hash": "02534169b087eaa2c588b1aaa0f30538a4e3b1d7"
+          }
+        },
+        {
+          "client_id": "287477963626-1mnr3m5udhukmf61qbbnt3kvsa3ocitj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjI-iSDspPjHjYvhAzW_GzrgIUls_D4P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287477963626-1mnr3m5udhukmf61qbbnt3kvsa3ocitj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -70,6 +70,11 @@ public class SignupActivity extends AppCompatActivity {
                 pass = passwordBox.getText().toString();
                 name = nameBox.getText().toString();
 
+//                Intent intent = new Intent(SignupActivity.this,dashboardActivity.class);
+//                intent.putExtra("ProfileName",name);
+//                startActivity(intent);
+//                finish();
+
                 User user = new User();
                 user.setEmail(email);
                 user.setPass(pass);

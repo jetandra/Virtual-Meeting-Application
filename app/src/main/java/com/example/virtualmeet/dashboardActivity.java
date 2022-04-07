@@ -35,6 +35,11 @@ public class dashboardActivity extends AppCompatActivity {
         secretCodeBox = findViewById(R.id.codeBox);
         joinBtn = findViewById(R.id.joinBtn);
         logout = findViewById(R.id.logOutBtn);
+        profile = findViewById(R.id.pName);
+
+
+//        final String name = getIntent().getStringExtra("ProfileName");
+//        profile.setText(name);
 
 
 

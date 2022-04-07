@@ -79,5 +79,15 @@ public class LoginActivity extends AppCompatActivity {
          }
      });
 
+
+        if (auth.getCurrentUser() != null) {
+            Intent intent = new Intent(LoginActivity.this, dashboardActivity.class);
+            startActivity(intent);
+            finish();
+        }
+
+
+
     }
+
 }

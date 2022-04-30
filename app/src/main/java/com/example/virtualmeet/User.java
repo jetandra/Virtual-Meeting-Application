@@ -1,5 +1,4 @@
 package com.example.virtualmeet;
-
 public class User {
     private String name, email, pass;
 
